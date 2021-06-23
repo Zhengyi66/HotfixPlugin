@@ -1,4 +1,3 @@
-# HotfixPlugin
 import com.android.build.gradle.api.ApplicationVariant
 import org.apache.commons.compress.utils.IOUtils
 import org.objectweb.asm.ClassReader
